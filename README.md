@@ -5,3 +5,14 @@ The standard filterPane in qlik sense can expand and collapsed responsivly accor
 the problem its not stable and not always fix as expected
 
 this extension was a creation of newly hypercube that copy the beahvior of filterPane but without the expanding feature
+
+# examples
+**drag and drop**
+![](filterPaneCollapsed01.gif)
+
+
+**create more dimensions**
+![](filterPaneCollapsed02.gif)
+
+**allways collapsed**
+![](filterPaneCollapsed03.gif)
